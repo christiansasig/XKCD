@@ -7,3 +7,6 @@ This app have following features:
 # Requirements
 - Canary versions of Android Studio.
 - Min SDK 21+
+# Screenshots
+![ScreenShot](/screenshots/screenshot_1.jpg)
+![ScreenShot](/screenshots/screenshot_2.jpg)
